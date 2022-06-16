@@ -12,8 +12,7 @@ I love solving real world problems 🔭 Among other things:)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Crazy About Work & Cars
 
-### Connect With me:
-[ <img align-left width=22px src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg" /> ][https://www.youtube.com/watch?v=ECuqb5Tv9qI]
+
 
 
 ## ⚡ Technologies
