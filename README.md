@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/88297996/174477998-3df9258f-424d-4114-8cd9-9f274130987a.gif">
+<img src="https://user-images.githubusercontent.com/88297996/174477998-3df9258f-424d-4114-8cd9-9f274130987a.gif" width="650" height="350">
 
 ### Hi ... I'am Rahul Ghadage 👋
 
