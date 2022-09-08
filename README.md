@@ -6,8 +6,8 @@
  Wel-Come --
 I love solving real world problems 🔭 Among other things:)
 
-- 🔭 I’m currently working on IOS Development.
-- 🌱 I’m currently learning Swift From Scratch.
+- 🔭 I’m currently working on Springboot Java Development.
+- 🌱 I’m currently learning Springboot & Angular From Scratch.
 - 👯 I’m looking to collaborate on Github, Linkedin.
 - 🤔 I’m looking for help with IOS Development.
 - 💬 Ask me about Core java, Web Technology.
