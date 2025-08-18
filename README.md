@@ -6,12 +6,12 @@
  Wel-Come --
 I love solving real world problems 🔭 Among other things:)
 
-- 🔭 I’m currently working on Springboot Java Development.
-- 🌱 I’m currently learning Springboot & Angular From Scratch.
+- 🔭 I’m currently working on Springboot, Microservices, Java Development.
+- 🌱 I’m currently learning Microservices & React From Scratch.
 - 👯 I’m looking to collaborate on Github, Linkedin.
-- 🤔 I’m looking for help with IOS Development.
-- 💬 Ask me about Core java, Web Technology.
-- 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/1/#inbox?compose=new), [Linkedin](https://www.linkedin.com/in/rahul-ghadage-0021/), [Resume](https://ghadagerahul.github.io/profile/)
+- 🤔 I’m looking for help with IOS Spring Cloud.
+- 💬 Ask me about Java, Spring, Springboot.
+- 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/1/#inbox?compose=new), [Linkedin](www.linkedin.com/in/rahulghadage9431), [Resume](https://ghadagerahul.github.io/profile/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Crazy About Work & Cars
 
