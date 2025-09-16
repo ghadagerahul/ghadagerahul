@@ -44,7 +44,7 @@ I love solving real-world problems and building scalable applications 🚀
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rahulghadage9431)
-- 📄 [Resume](https://ghadagerahul.github.io/profile/)
+- 📄 [Resume](https://ghadagerahul.github.io/resume/)
 - 📧 [Gmail](https://mail.google.com/mail/u/1/#inbox?compose=new)
 
 ---
