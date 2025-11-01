@@ -41,7 +41,7 @@ I love solving real-world problems and building scalable applications 🚀
 
 ---
 <a href="https://github.com/ghadagerahul">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-ghadge&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghadagerahul&theme=radical" />
 </a>
 ---
 
