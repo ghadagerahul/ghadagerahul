@@ -40,6 +40,10 @@ I love solving real-world problems and building scalable applications 🚀
 [![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghadagerahul&show_icons=true&theme=radical)](https://github.com/ghadagerahul/github-readme-stats)
 
 ---
+<a href="https://github.com/ghadagerahul">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-ghadge&theme=radical" />
+</a>
+---
 
 ## 🔗 Let's Connect
 
